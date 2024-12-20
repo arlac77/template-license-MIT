@@ -1,0 +1,26 @@
+{
+  "license": "MIT",
+  "template": {
+    "mergers": [
+      {
+        "type": "Readme",
+        "pattern": "README.md",
+        "options": {
+          "badges": [
+            {
+              "name": "License",
+              "icon": "https://img.shields.io/badge/License-MIT--Clause-blue.svg",
+              "url": "https://spdx.org/licenses/MIT.html",
+              "order": 0.11
+            }
+          ]
+        }
+      },
+      {
+        "type": "License",
+        "pattern": "LICENSE"
+      }
+    ],
+    "usedBy": []
+  }
+}
