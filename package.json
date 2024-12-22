@@ -22,6 +22,7 @@
       }
     ],
     "usedBy": [
+      "arlac77/rpm-codec",
       "k0nsti/browser-stream-tar",
       "k0nsti/browser-stream-util"
     ]
