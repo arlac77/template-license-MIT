@@ -22,6 +22,7 @@
       }
     ],
     "usedBy": [
+      "k0nsti/browser-stream-tar",
       "k0nsti/browser-stream-util"
     ]
   }
