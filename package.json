@@ -21,6 +21,8 @@
         "pattern": "LICENSE"
       }
     ],
-    "usedBy": []
+    "usedBy": [
+      "k0nsti/browser-stream-util"
+    ]
   }
 }
